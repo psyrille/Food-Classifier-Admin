@@ -1,0 +1,7 @@
+.recommendation-list {
+  transition: 10ms;
+}
+
+.recommendation-list:hover {
+  background-color: rgba(181, 174, 174, 0.235)
+}
